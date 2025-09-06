@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+body{
+  background-color: #111;
+  /* color: white; */
+}
+.buttons{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+h1, h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+button{
+  padding: 5px 10px;
+}
